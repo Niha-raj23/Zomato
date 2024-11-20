@@ -206,4 +206,48 @@ letter-spacing: 0.7px;
 .section-3-download img{
     width: 40%;
 }
+/* Footer */
+.foot {
+    background-color: #f5f5f5;
+}
+
+.footer-contents {
+    color: black;
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+ul {
+    margin-top: 10px;
+}
+
+ul p {
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+ul a {
+    display: block;
+    font-size: 0.85rem;
+    margin-top: 10px;
+    color: #727272;
+    text-decoration: none;
+}
+
+.line {
+    border: 1px solid #72727254;
+    margin-left: 13%;
+    margin-right: 10.4%;
+}
+
+.copyright {
+    padding-top: 15px;
+    padding-left: 13%;
+    padding-right: 10%;
+    padding-bottom: 15px;
+    font-size: 12px;
+    font-weight: lighter;
+    color: #727272bc;
+}
 
